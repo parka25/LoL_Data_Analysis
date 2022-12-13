@@ -30,8 +30,6 @@ The overall conclusion is that for a team to win a game, a team should focus on 
 
 From Analysis_Final.ipynb, I was able to figure out what champions are good to use based on the winning rate. These champions were: Anivia, Garen, Janna, Rammus, Sejuani, Shyvana, Singed, Sona, Swain, and Yorick. There were also champions that were not used at all: Aurelion Sol, Cho'gath, Dr Mundo, Jarvan IV, Kha'zix, Kog'maw, Leblanc, Lee Sin, Master Yi, Miss Fortune, Monkey King, None, Rek'Sai, Tahm Kench, Twisted Fate, Vel'koz, and XinZhao turned out to be the unpopular champions. This is most likely because of the meta of the game, where certain champions become good and other champions become useless based on the change in game meta. However, based on my background knowledge of the champions, another potential  reason for certain champions’ high win rate is based on the users of that champion. Since most of the champions listed with a win rate above 53% are champions that are only used by masters, they consequently have a higher chance of winning. 
 
-(Talk about Analysis) 
-
 Evaluation
 
 While I did this project, I met some limitations due to the time constraint. Even though I had data about spells,  I was not able to connect this data to my analysis and talk about it. Given more time, I also would have explored spell data more. Given more time, I also would have explored spell data more. This would diversify my conclusion, and add more information.  
