@@ -10,7 +10,7 @@ From Kaggle, I obtained the data about three main areas: champion, spells, and g
 
 I chose this data because I had a deep interest in the game League of Legends. In this game, objects take huge importance. Each object is defined, and they are Rift Herald, Dragon, Baron, and Tower. Each of the four objects help the team to win, with the Rift Herald being important in the early stages of the game, and Dragon, Tower, and Baron becoming important in the later stages of the game. Each of the four objects are worthy of investigation in terms of data analysis. 
 
-**Initial Data Exploration/ Visualization **
+**Initial Data Exploration/Visualization **
 
 First, as all data analysis does, I started with data exploration, exploring the given data about games, champions, and spells. With the imported data, I converted each json and csv file into a form of dataframe, which is easier to implement pandas and thus allowing for more in depth analysis.
 
